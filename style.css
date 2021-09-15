@@ -17,3 +17,9 @@ header {
         background-color: purple;
     }
 }
+
+@media only screen and (max-width: 400px) {
+    tr {
+        width: calc(100vw/1);
+    }
+}
