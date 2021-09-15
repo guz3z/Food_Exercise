@@ -8,9 +8,14 @@ nav {
 }
 
 header {
-    background-color: grey;
-    border-radius: 10px;
+    background-color:black;
+    border-radius: 30px;
 }
 body {
-    background-color: lightpink;
+    background-color: palevioletred;
+}
+@media only screen and (max-width: 700px) {
+    header {
+         background-color: purple;
+      }
 }
