@@ -1,0 +1,16 @@
+h1, h2 {
+    text-align: center;
+    color: goldenrod;
+}
+
+nav {
+    text-align: center;
+}
+
+header {
+    background-color: grey;
+    border-radius: 10px;
+}
+body {
+    background-color: lightpink;
+}
