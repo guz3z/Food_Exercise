@@ -6,3 +6,8 @@ h1, h2 {
 nav {
     text-align: center;
 }
+
+header {
+    background-color: grey;
+    border-radius: 10px;
+}
