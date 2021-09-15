@@ -19,7 +19,7 @@ header {
 }
 
 @media only screen and (max-width: 400px) {
-    tr {
+    table {
         width: calc(100vw/1);
     }
 }
